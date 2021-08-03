@@ -36,4 +36,4 @@ And to total:
 - = 14
 
 ## Double Check
-http://www.dvorkin.com/scrabscor.php
+http://www.dvorkin.com/scrabscor.php 
